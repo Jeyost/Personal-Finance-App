@@ -1,1 +1,1 @@
-# personal_finance
+# Personal Finance App
